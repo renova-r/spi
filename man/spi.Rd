@@ -114,15 +114,6 @@ Applied Climatology, January 17 e 22, Anaheim, California, pp. 179 e 184.
 %%  ~~who you are~~
 Josemir A Neves (josemir.neves@gmail.com/josemiremparn@rn.gov.br)
 }
-\note{
-%%  ~~further notes~~
-}
-
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
-\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
-}
 \examples{
 ##load data
 

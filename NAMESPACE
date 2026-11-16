@@ -3,3 +3,9 @@
 
 # Export all names
 exportPattern(".")
+importFrom(grDevices,colorRampPalette)
+importFrom(graphics,axis)
+importFrom(graphics,filled.contour)
+importFrom(stats,ecdf)
+importFrom(stats,qnorm)
+importFrom(utils,read.table)

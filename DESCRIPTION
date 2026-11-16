@@ -1,11 +1,12 @@
 Package: spi
 Type: Package
-Title: Compute SPI index
-Version: 1.1
-Date: 2011-02-26
-Author: Josemir Neves
+Title: Compute SPI Index
+Version: 1.1.9001
+Author: Josemir Neves [aut, cre]
 Maintainer: Josemir Neves <josemir.neves@gmail.com>
-Description: Compute the SPI index using R
+Authors@R: person(given = "Josemir", family = "Neves", role = c("aut", "cre"), email = "josemir.neves@gmail.com")
+Description: Compute the Standardized Precipitation Index (SPI) using R.
+    Compatibility updates by Renova.
 License: GPL-2
 LazyLoad: yes
 LazyData: yes
